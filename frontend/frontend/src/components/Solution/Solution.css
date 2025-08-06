@@ -1,0 +1,25 @@
+.solution {
+    padding: 20px;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: whitesmoke;
+}
+
+.solution-heading {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.solution-description {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.solution-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

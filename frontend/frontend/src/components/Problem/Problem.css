@@ -1,0 +1,28 @@
+.problem-statement{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    flex-direction: column; 
+    height: 50vh;
+    background-color: #bebebe;
+    color: black;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.problem-statement h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+    animation: slideIn 1s ease forwards;
+}
+
+.problem-statement-content{
+    animation: slideIn 1s ease forwards;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    text-align: center;
+    font-size: 1.2rem;
+}

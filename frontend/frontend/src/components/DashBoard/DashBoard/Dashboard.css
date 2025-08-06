@@ -1,0 +1,7 @@
+.dashboard{
+      background-color: #f0f0f0;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      transition: box-shadow 0.3s ease;
+}
+
