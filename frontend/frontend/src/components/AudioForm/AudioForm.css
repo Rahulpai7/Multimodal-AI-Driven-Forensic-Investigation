@@ -140,10 +140,6 @@
     padding: 30px 15px;
   }
 }
-  border-radius: 8px;
-  padding: 15px;
-  margin-bottom: 15px;
-}
 
 .result-child:hover {
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);

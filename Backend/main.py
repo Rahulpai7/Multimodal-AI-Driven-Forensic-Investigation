@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from loguru import logger
 from pathlib import Path
 from moviepy.editor import *
+from moviepy.editor import VideoFileClip
 from fastapi.responses import JSONResponse,FileResponse
 from audioSentiment import AudioSentiment
 from textSentiment import summary_sentiment
